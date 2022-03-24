@@ -1,2 +1,7 @@
-# v7x-tist
-# this onIy for testing
+imbort os
+os.system("clear")
+
+list99 = 10000000
+while list99 < 99999999 :
+  list99=list99+1
+    print (list99)
